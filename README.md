@@ -10,7 +10,7 @@ CRICKSTATS is a cloud-based cricket player performance tracking application deve
 The project follows the Software Development Life Cycle (SDLC) and Agile methodology to design and implement a scalable performance tracking platform. 
 
 
-#Team Activities
+# Team Activities
 
 The project was completed collaboratively by the team members by performing the following activities:
 
