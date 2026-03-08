@@ -70,7 +70,7 @@ Configured roll-up summary fields to calculate statistics such as:
 * Created reports and dashboards to visualize player performance.
 * Implemented analytics for match-by-match statistics.
 
-8. Testing
+# 8. Testing
 
 * Performed functional testing to verify object creation, flows, and automation.
 * Evaluated system performance for report generation and dashboard loading.
