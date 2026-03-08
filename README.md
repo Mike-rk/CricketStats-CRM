@@ -2,7 +2,7 @@
 https://drive.google.com/file/d/1ZE1tJ13-_ZZvwdh0DZDQGnpVzjyIIwBk/view)
 
 # CRICKSTATS- Demo video
-https://drive.google.com/file/d/1wDG6igBmY5Qz99kWS_rGxqrPpdT2QTiK/view
+https://drive.google.com/file/d/1tHOsdjDhU1LxWNNwya95oETDnfxSygai/view?usp=drive_link
 
 # CRICKSTATS – Cricket Player Performance Tracking System
 Project Overview
