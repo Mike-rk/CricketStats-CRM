@@ -39,7 +39,7 @@ The project was completed collaboratively by the team members by performing the 
 * Developed the CRICKSTATS Lightning Application.
 * Designed page layouts and user-friendly forms.
 
-#5. Field Configuration
+# 5. Field Configuration
 
 Added custom fields such as:
 
