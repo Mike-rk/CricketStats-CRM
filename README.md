@@ -1,6 +1,8 @@
 # CricketStats-CRM
 https://drive.google.com/file/d/1ZE1tJ13-_ZZvwdh0DZDQGnpVzjyIIwBk/view)
 
+# CRICKSTATS- Demo video
+https://drive.google.com/file/d/1wDG6igBmY5Qz99kWS_rGxqrPpdT2QTiK/view
 
 # CRICKSTATS – Cricket Player Performance Tracking System
 Project Overview
